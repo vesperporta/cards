@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+__pycache__/*
+*.sublime-project
+*.sublime-workspace
+*.numbers
